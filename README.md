@@ -23,8 +23,8 @@ These certifications have significantly enriched my skill set, enabling me to of
   </div>  
 
 <div class="Calendly">
-<h2>Calendly</h2>
-    <ul>
-<li><a href= "https//calendary.com/kimvinter">Schedule your appointment in this link!</a></li>
-</ul>
-  </div>
+  <h2>Calendly</h2>
+  <ul>
+    <li><a href="https://calendary.com/kimvinter">Schedule your appointment in this link!</a></li>
+  </ul>
+</div>
